@@ -1,8 +1,8 @@
-# Bitcoin.com Paper Wallet
+SLP Paper Wallet
 
-The Bitcoin.com Paper Wallet Landing Page
+The SLP Paper Wallet Landing Page
 
-A client-side Bitcoin Cash (BCH) wallet generator producing customizable paper wallets.
+A client-side Simple Ledger Protocol (SLP) wallet generator producing customizable paper wallets.
 
 The Bitcoin.com Paper Wallet is based on the open source [bitaddress.org repository.](https://github.com/pointbiz/bitaddress.org) Private Keys are generated client-side. For better security, download a local copy and run on an offline machine. 
 
