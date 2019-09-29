@@ -1,6 +1,7 @@
 SLP Paper Wallet
 
 The SLP Paper Wallet Landing Page
+https://wallet.bitchslap.tech
 
 A client-side Simple Ledger Protocol (SLP) wallet generator producing customizable paper wallets.
 
